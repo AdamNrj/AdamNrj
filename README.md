@@ -5,28 +5,40 @@ Apasionado por la tecnología, el código limpio y la enseñanza. Me gusta compa
 
 ---
 
-## 🛠️ Tecnologías que utilizo
+## 🛠️ Tecnologías que uso a diario
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+</div>
 
 ---
 
 ## 📫 Conecta conmigo
 
-- 🌐 [Mi portafolio](https://my-web-portfolio-pied.vercel.app/en)
-- 💬 [Discord: tuusuario#1234](https://discord.com/users/adamnrj)  
-- 📧 [manuel@email.com](mailto:manuel.nrj.09@email.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/manuelnaranjo-dev/)
+<div align="center">
+  <a href="https://tu-portafolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portafolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:manuel@email.com">
+    <img src="https://img.shields.io/badge/✉️%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-_¡Gracias por visitar mi perfil!_
+_Gracias por visitar mi perfil. ¡Nos leemos pronto! 🚀_
