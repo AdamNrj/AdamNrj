@@ -25,16 +25,16 @@ Apasionado por la tecnología, el código limpio y la enseñanza. Me gusta compa
 ## 📫 Conecta conmigo
 
 <div align="center">
-  <a href="https://tu-portafolio.com" target="_blank">
+  <a href="https://my-web-portfolio-pied.vercel.app/en" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portafolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://discord.com/users/tuusuario" target="_blank">
     <img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:manuel@email.com">
+  <a href="mailto:manuel.nrj.09@email.com">
     <img src="https://img.shields.io/badge/✉️%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/manuelnaranjo-dev/" target="_blank">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
