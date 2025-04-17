@@ -25,7 +25,7 @@ Apasionado por la tecnología, el código limpio y la enseñanza. Me gusta compa
 - 🌐 [Mi portafolio]([https://tu-portafolio.com](https://my-web-portfolio-pied.vercel.app/en))
 - 💬 [Discord: tuusuario#1234](https://discord.com/users/adamnrj)  
 - 📧 [manuel@email.com](mailto:manuel.nrj.09@email.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/manuelnaranjo-dev/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/manuelnaranjo-dev/))
 
 ---
 
