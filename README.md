@@ -1,6 +1,6 @@
 🧪 Manuel — Frontend & Mobile Developer
 Building interfaces that feel alive.
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=FFFFFF&center=true&vCenter=true&width=700&lines=React+%7C+Flutter+%7C+TypeScript;4+A%C3%B1os+de+Experiencia;Clean+Code+%26+High+Performance;Pixel+Perfect+UI%2FUX;Siempre+aprendiendo%2C+siempre+creando" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=FFFFFF&center=true&vCenter=true&width=700&lines=React+%7C+%7C+TypeScript;4+A%C3%B1os+de+Experiencia;Clean+Code+%26+High+Performance;Pixel+Perfect+UI%2FUX;Siempre+aprendiendo%2C+siempre+creando" /> </p>
 🔥 Sobre mí
 
 Desarrollador frontend y mobile con 4 años construyendo experiencias digitales rápidas, pulidas y con intención.
