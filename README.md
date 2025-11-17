@@ -1,32 +1,47 @@
-👋 Hola, soy Manuel
-💻 Frontend & Mobile Developer
+🧪 Manuel — Frontend & Mobile Developer
+Building interfaces that feel alive.
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00E5FF&center=true&vCenter=true&width=700&lines=React+%7C+Flutter+%7C+TypeScript;4+A%C3%B1os+de+Experiencia;Clean+Code+%26+High+Performance;Pixel+Perfect+UI%2FUX;Siempre+aprendiendo%2C+siempre+creando" /> </p>
+🔥 Sobre mí
 
-Desarrollador con 4 años de experiencia creando interfaces modernas, rápidas y escalables. Disfruto trabajar con tecnologías emergentes, optimizar código y construir experiencias que realmente aporten valor. También comparto conocimiento y buenas prácticas siempre que puedo.
+Soy un desarrollador frontend y mobile con 4 años construyendo experiencias digitales rápidas, pulidas y con intención.
+Me motiva transformar ideas en interfaces vivas, limpias y escalables.
+Trabajo con foco, criterio técnico y una obsesión sana por el detalle.
 
-🛠️ Tecnologías principales
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,flutter,tailwind,sass,bootstrap" /> </p>
-🚀 Lo que hago
+🧩 Stack & Superpoderes
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,vue,ts,js,flutter,next,tailwind,sass,html,css,figma" /> </p> <div align="center">
+Habilidad	Descripción
+⚡ Frontend Architect	Componentes escalables, performance, patrones modernos.
+📱 Mobile Dev	Apps limpias y fluidas con Flutter.
+🎨 UI/UX	Interfaz limpia, accesible y con intención.
+🧠 Problem Solving	Lógica clara, decisiones técnicas sólidas.
+🚀 Delivery	Ritmo alto, calidad sin compromisos.
+</div>
+🛰️ Actualmente explorando
 
-Desarrollo de interfaces eficientes con React, Vue y TypeScript.
+React Server Components y patrones avanzados en Next.js
 
-Apps móviles con Flutter.
+Animaciones fluidas y microinteractions
 
-Diseño de arquitecturas frontend escalables.
+Clean Architecture en frontend
 
-Creación de experiencias UI/UX limpias, rápidas y accesibles.
+Integraciones API y tooling moderno
 
-Integraciones, optimización de rendimiento y buenas prácticas.
+Cómo llevar una experiencia web al nivel de un producto premium
 
-📊 Actualmente enfocado en
+🧱 Mis principios como developer
 
-Mejora continua en performance y DX.
+Código legible > código rápido
 
-Arquitecturas modernas (Next.js, React Server Components).
+Los detalles hacen la experiencia
 
-Mobile-first & cross-platform.
+Nunca repetir, siempre abstraer
 
-Prácticas de clean code y automatización.
+No sólo construir: entender por qué
 
-📫 Conecta conmigo
-<p align="center"> <a href="https://manuel-nrj.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portafolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://discord.com/users/tuusuario" target="_blank"> <img src="https://img.shields.io/badge/💬%20Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2" /> </a> <a href="mailto:manuel.nrj.09@email.com"> <img src="https://img.shields.io/badge/✉️%20Email-111111?style=for-the-badge&logo=gmail&logoColor=D14836" /> </a> <a href="https://www.linkedin.com/in/manuelnrj-dev/" target="_blank"> <img src="https://img.shields.io/badge/💼%20LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0077B5" /> </a> </p>
-<p align="center">✨ Gracias por visitar mi perfil. Seguimos construyendo. 🚀</p>
+Las ideas son buenas, pero ejecutarlas es mejor
+
+🗂️ Portfolio
+<p align="center"> <a href="https://manuel-nrj.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Ver%20mi%20Portafolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+🌐 Conecta conmigo
+<p align="center"> <a href="mailto:manuel.nrj.09@email.com"> <img src="https://img.shields.io/badge/✉️%20Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/manuelnrj-dev/"> <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5" /> </a> <a href="https://discord.com/users/tuusuario"> <img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=5865F2" /> </a> </p>
+<p align="center">⚙️ Construyendo hoy lo que otros usarán mañana.</p>
