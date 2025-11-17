@@ -1,45 +1,20 @@
 🧪 Manuel — Frontend & Mobile Developer
 Building interfaces that feel alive.
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00E5FF&center=true&vCenter=true&width=700&lines=React+%7C+Flutter+%7C+TypeScript;4+A%C3%B1os+de+Experiencia;Clean+Code+%26+High+Performance;Pixel+Perfect+UI%2FUX;Siempre+aprendiendo%2C+siempre+creando" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=FFFFFF&center=true&vCenter=true&width=700&lines=React+%7C+Flutter+%7C+TypeScript;4+A%C3%B1os+de+Experiencia;Clean+Code+%26+High+Performance;Pixel+Perfect+UI%2FUX;Siempre+aprendiendo%2C+siempre+creando" /> </p>
 🔥 Sobre mí
 
-Soy un desarrollador frontend y mobile con 4 años construyendo experiencias digitales rápidas, pulidas y con intención.
-Me motiva transformar ideas en interfaces vivas, limpias y escalables.
-Trabajo con foco, criterio técnico y una obsesión sana por el detalle.
+Desarrollador frontend y mobile con 4 años construyendo experiencias digitales rápidas, pulidas y con intención.
+Transformo ideas en interfaces vivas, limpias y escalables, con enfoque en rendimiento, diseño y buenas prácticas.
 
 🧩 Stack & Superpoderes
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,vue,ts,js,flutter,next,tailwind,sass,html,css,figma" /> </p> <div align="center">
 Habilidad	Descripción
 ⚡ Frontend Architect	Componentes escalables, performance, patrones modernos.
 📱 Mobile Dev	Apps limpias y fluidas con Flutter.
-🎨 UI/UX	Interfaz limpia, accesible y con intención.
+🎨 UI/UX	Interfaces limpias, accesibles y con intención.
 🧠 Problem Solving	Lógica clara, decisiones técnicas sólidas.
 🚀 Delivery	Ritmo alto, calidad sin compromisos.
 </div>
-🛰️ Actualmente explorando
-
-React Server Components y patrones avanzados en Next.js
-
-Animaciones fluidas y microinteractions
-
-Clean Architecture en frontend
-
-Integraciones API y tooling moderno
-
-Cómo llevar una experiencia web al nivel de un producto premium
-
-🧱 Mis principios como developer
-
-Código legible > código rápido
-
-Los detalles hacen la experiencia
-
-Nunca repetir, siempre abstraer
-
-No sólo construir: entender por qué
-
-Las ideas son buenas, pero ejecutarlas es mejor
-
 🗂️ Portfolio
 <p align="center"> <a href="https://manuel-nrj.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Ver%20mi%20Portafolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 🌐 Conecta conmigo
