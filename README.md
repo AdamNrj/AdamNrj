@@ -1,95 +1,45 @@
-# ⚡ Manuel.Dev  
-### Frontend & Mobile Engineer — Building interfaces that feel alive
+<h2 align="center" style="color:#7C7CFF;">
+🚀 Manuel · Frontend & Mobile Engineer
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=FFFFFF&center=true&vCenter=true&width=800&lines=React+%7C+Vue+%7C+JavaScript+%7C+TypeScript;Flutter+%7C+Dart+%7C+Mobile+Engineering;4%2B+A%C3%B1os+Creando+Productos+Reales;Ingenio%2C+Audacia+y+Ejecuci%C3%B3n;No+solo+codeo%2C+resuelvo" />
+  <em style="color:#4F46E5;">
+    Building interfaces that feel alive
+  </em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=7C7CFF&center=true&vCenter=true&width=650&lines=React+%7C+Vue+%7C+JavaScript+%7C+TypeScript;Flutter+%26+Dart+%7C+Mobile+Apps;4%2B+Years+Shipping+Real+Products;Creative+Mind+%2B+Problem+Solver" />
 </p>
 
 ---
 
-## 🧠 Quién soy (sin humo)
+### ⚡ What I do
 
-Soy **developer con mentalidad de producto**.  
-No escribo código por escribirlo: **diseño soluciones**, optimizo experiencias y convierto ideas en interfaces que se sienten vivas.
-
-🔥 **Pionero** cuando el camino no existe  
-🧩 **Ingenioso** para resolver lo complejo  
-⚡ **Audaz** para ejecutar rápido y bien  
-🎯 **Obsesivo** con los detalles y el performance
+- **Frontend Engineering** — React, Vue, TypeScript  
+- **Mobile Development** — Flutter & Dart (animated, smooth, scalable)  
+- **UI/UX Craftsmanship** — pixel-perfect, motion-driven interfaces  
+- **Problem Solving** — fast thinker, clean solutions, real impact  
 
 ---
 
-## 🧩 Lo que hago realmente bien
+### 🧠 Mindset
 
-**1️⃣ Frontend moderno**
-- React, Vue, JavaScript, TypeScript
-- UI/UX pixel-perfect
-- Animaciones, micro-interactions y motion limpio
-- Arquitecturas escalables y mantenibles
-
-**2️⃣ Mobile real (no solo “apps”)**
-- Flutter + Dart
-- Apps rápidas, fluidas y bien pensadas
-- Experiencia nativa con mentalidad cross-platform
-
-**3️⃣ Mentalidad de ingeniero**
-- Clean Code & Clean Architecture
-- Abstracción inteligente (DRY, reusable, escalable)
-- Performance first
-- Código legible hoy y dentro de 2 años
-
-**4️⃣ Resolver problemas**
-- APIs, integraciones, tooling moderno
-- Pensar → diseñar → ejecutar
-- Si hay un bloqueo, **lo rompo**
+- Ingenio antes que fuerza  
+- Código claro, soluciones audaces  
+- Menos ruido, más valor  
+- Pensar → diseñar → ejecutar  
 
 ---
 
-## 🧠 Mis principios
-
-- **Código claro > código rápido**
-- **La experiencia importa tanto como la lógica**
-- **Menos magia, más intención**
-- **No repetir: abstraer**
-- **Ideas sin ejecución no valen nada**
-
----
-
-## 🛠️ Stack principal
+### 🛰️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,flutter,dart,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,flutter,dart,tailwind&theme=dark" />
 </p>
 
 ---
 
-## 🚀 En qué estoy enfocado ahora
-
-- Interfaces premium que se sienten como producto
-- Animaciones fluidas y micro-interactions
-- Arquitecturas frontend sólidas
-- Mobile apps bien diseñadas, no genéricas
-- Llevar ideas a producción rápido y bien
-
----
-
-## 📫 Conecta conmigo
-
-<p align="center">
-  <a href="https://manuel-nrj.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/manuelnrj-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:manuel.nrj.09@email.com">
-    <img src="https://img.shields.io/badge/✉️%20Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ No busco proyectos normales.  
-  Busco ideas que merezcan ser bien construidas.
+<p align="center" style="color:#6366F1;">
+✨ Engineer by logic · Creator by instinct
 </p>
